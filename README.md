@@ -1,4 +1,4 @@
-# Readme
+# README
 
 To run novelty detection experiments:
 
